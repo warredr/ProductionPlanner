@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ProductionPlanner": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:8888",
+      "launchUrl": "swagger/index.html"
+    }
+  }
+}
